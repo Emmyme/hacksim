@@ -17,6 +17,18 @@ go mod tidy
 go run .
 ```
 
+## Dependencies
+
+This project uses the following Go modules:
+
+### Direct Dependencies
+- **[Bubble Tea](https://github.com/charmbracelet/bubbletea)** v1.3.6 - Terminal UI framework for building interactive command-line applications
+- **[Lipgloss](https://github.com/charmbracelet/lipgloss)** v1.1.0 - Terminal styling library for beautiful CLI interfaces
+
+### Additional Requirements
+- **Go 1.25.0** or higher
+
+
 ## How to Play
 
 Complete missions by entering commands in the correct order, then solve puzzles.
